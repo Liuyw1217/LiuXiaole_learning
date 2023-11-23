@@ -14,7 +14,8 @@ STAR是ENCODE官方推荐的RNA-seq比对工具
 ## 去除批次：Combat(sva)、DESeq2
 ## 降维聚类：PCA(prcomp)、hclust(dist)、kmeans
 ## 差异表达：DESeq2、limma
-## 分类聚类回归等：MASS。“MASS“包是一个十分强大的统计包，可以进行各种统计分析，我也将围绕它来介绍判别分析。”MASS“包既可以进行线性判别，也可以进行二次判别。
+## 分类聚类回归等：MASS。
+“MASS“包是一个十分强大的统计包，可以进行各种统计分析，我也将围绕它来介绍判别分析。”MASS“包既可以进行线性判别，也可以进行二次判别。
 ## ChIP-Seq:bwa比对、samtools查看比对结果、macs2（filterdup、callpeak、差异峰）、homer(TF motif)
 Cistrome DB总共收录了30451人和26013小鼠的转录因子、组蛋白修饰和染色质可及性样本，可以说是目前最全面的研究ChIP-seq和DNase-seq的数据库
 Cistrome Toolkit 可以检索哪个因子调控了我们感兴趣的基因，哪个因子结合在用户的基因组区域或者和用户的peak有显著重叠。
