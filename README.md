@@ -27,3 +27,12 @@ Bismark是一款比较有名的甲基化测序比对软件。对 Bismark 的比�
 ## HiC:runHiC(mapping、filtering、binning、quality)、cooler标准化、peakachu寻找显著loop、
 ## 隐马尔可夫模型：状态序列（Hidden States）、观测序列（Observations）、转移概率（Transition Probabilities）、发射概率（Emission Probabilities）、初始概率分布（Initial Probabilities）
 ## GWAS：NHGRI-EBI GWAS、dbSNP、LDLink、RegulomeDB
+## MASESTRO:scrna-init、sample-init scatac-init 、snakemake
+## Seurat、Signac
+## maf文件、gain or loss of function mutation
+CBioPortal has a comprehensive list of tumor profiling results for interactive visualization.
+## CRISPR screens: MAGeCK（count、test）、
+正向选择的基因是在处理组中敲除或抑制会给细胞提供生长或存活优势的基因。
+负向选择的基因是在处理组中敲除或抑制导致细胞生长劣势或死亡的基因。
+depmap (DepMap.org)，其中有 500 多个人类细胞系的 CRISPR / RNAi 筛选结果.查询基因在各种细胞的中的必要性 （Perturbation effects），换而言之，在这个细胞中去除这个基因是否影响细胞生存，再进一步在这个细胞中敲除或者敲低该基因是否会影响细胞活力
+TIMER是一个综合数据库，主要功能是通过TIMER算法系统地分析不同癌症类型中的六种肿瘤浸润免疫细胞
